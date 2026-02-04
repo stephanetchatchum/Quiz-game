@@ -16,3 +16,4 @@ else:
     print("Incorrect!❌") 
 
 print("You got " + str(score) + "Questions coresct")
+print("You got " + str((score /4) *100) + "%")
